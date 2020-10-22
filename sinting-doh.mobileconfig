@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>149.129.213.122</string>
+					<string>162.253.155.34</string>
+					<string>3.0.81.246</string>
+					<string>35.247.91.124</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://sinting.id</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures device to use SINTING Encrypted DNS over HTTPS</string>
+			<key>PayloadDisplayName</key>
+			<string>Cloudflare DNS over HTTPS</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.03fc6768-d343-470f-84a3-096cce6b0925</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>db5c16ba-61c1-43c4-8df6-054b203f0a27</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds the SINTING DNS to Big Sur and iOS 14 based systems</string>
+	<key>PayloadDisplayName</key>
+	<string>SINTING DNS over HTTPS</string>
+	<key>PayloadIdentifier</key>
+	<string>com.sinting.apple-dns</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7219862E-1E2E-4BBD-873C-EC5AA6983307</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

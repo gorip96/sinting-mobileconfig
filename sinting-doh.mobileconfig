@@ -22,7 +22,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use SINTING Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>Cloudflare DNS over HTTPS</string>
+			<string>SINTING DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.03fc6768-d343-470f-84a3-096cce6b0925</string>
 			<key>PayloadType</key>

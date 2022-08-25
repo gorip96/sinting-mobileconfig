@@ -17,7 +17,7 @@
 					<string>35.247.91.124</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://sinting.id</string>
+				<string>https://sinting.id/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use SINTING Encrypted DNS over HTTPS</string>
